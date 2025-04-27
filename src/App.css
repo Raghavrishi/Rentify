@@ -162,7 +162,7 @@ h5 {
 /****************************HERO SECTION STYLING*********************************/
 #hero {
   min-height: 80vh;
-  background: url('C:\Users\Lenovo\Desktop\House Rental App-FrontEnd\House\house18.jpg');
+  background: url('/House/house18.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -1193,7 +1193,7 @@ h5 {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background: url("C:\Users\Lenovo\Desktop\House Rental App-FrontEnd\House\house18.jpg") center;
+  background: url("/House/house16.jpg") center;
   background-size: cover;
 }
 
@@ -1291,7 +1291,7 @@ h5 {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background: url("C:\Users\Lenovo\Desktop\House Rental App-FrontEnd\House\house16.jpg") center;
+  background: url("/House/house16.jpg") center;
   background-size: cover;
 }
 
